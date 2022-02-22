@@ -4,3 +4,5 @@ This repository provides access to several Shiny applications developed by GRBio
 Access is granted through the repository wiki:
 
 https://github.com/GRBio/ShinyApps/wiki/Shiny-Applications
+
+https://grbio.upc.edu/en/software/apps
